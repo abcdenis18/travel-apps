@@ -1,0 +1,12 @@
+String textTitleLogin = "Welcome to Travel Apps";
+String textCaptionLogin = "";
+String textDontHaveAccount = "Don't have an account";
+String textSignWithGoogle = "or Sign in using";
+String textHintEmail = "your email";
+String textHintPassword = "your password";
+String textExplore = "Explore";
+String textHintSearch = "Any places in your mind";
+String textTitlePopularPlace = "Popular Place";
+String textTitleTopCategory = "Top Category";
+String textSettings = "Settings";
+String textNotifications = "Notifications";
