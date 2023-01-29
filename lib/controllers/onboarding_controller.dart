@@ -30,7 +30,6 @@ class OnboardingController extends GetxController {
 
   @override
   void onInit() {
-    // TODO: implement onInit
     pageController = PageController(initialPage: onboardingIndex.value);
     super.onInit();
   }

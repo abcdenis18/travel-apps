@@ -1,5 +1,5 @@
 String textTitleLogin = "Welcome to Travel Apps";
-String textCaptionLogin = "";
+String textCaptionLogin = "Eaque laudantium quasi quasi magnam beatae baeate.";
 String textDontHaveAccount = "Don't have an account";
 String textSignWithGoogle = "or Sign in using";
 String textHintEmail = "your email";

@@ -7,3 +7,11 @@ const Color appFontPrimaryColor = Color(0xff0C123A);
 const Color appFontSecondaryColor = Color(0xff727993);
 
 var appBorderRadius = BorderRadius.circular(10);
+var appBoxShadow = [
+  BoxShadow(
+    color: Colors.black12,
+    blurRadius: 10,
+    spreadRadius: 1,
+    offset: Offset(1, 3),
+  )
+];

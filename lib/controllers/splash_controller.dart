@@ -3,11 +3,6 @@ import 'package:travel_apps/routes/app_routes.dart';
 
 class SplashController extends GetxController {
   @override
-  void onInit() {
-    super.onInit();
-  }
-
-  @override
   void onReady() {
     Future.delayed(Duration(milliseconds: 1500), () {
       Get.offAllNamed(AppRoutes.onboarding);

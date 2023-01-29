@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
       builder: (context, orientation, screenType) => GetMaterialApp(
         title: 'Travel Apps',
         theme: ThemeData(
+          scaffoldBackgroundColor: appBackground,
           textTheme: GoogleFonts.poppinsTextTheme().apply(
             bodyColor: appFontPrimaryColor,
           ),

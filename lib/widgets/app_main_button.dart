@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:lucide_icons/lucide_icons.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:travel_apps/constants/styles.dart';
 
@@ -36,11 +35,11 @@ class AppMainButton extends StatelessWidget {
                 letterSpacing: .85,
               ),
             ),
-            SizedBox(width: 10),
+            SizedBox(width: 15),
             Icon(
               icon,
               color: Colors.white,
-              size: Adaptive.px(20),
+              size: Adaptive.px(18),
             )
           ],
         ),
